@@ -29,7 +29,7 @@
             maxZoom: 18,
             }).addTo(map);
 
-				fetch('/export.geojson')
+				fetch('export.geojson')
 				.then(ret => ret.json())
 				.then(data => {
 					L.geoJSON(data, {
