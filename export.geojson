@@ -1,0 +1,1943 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2021-02-02T12:09:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/7068564",
+        "leisure": "playground",
+        "surface": "sand",
+        "type": "multipolygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              12.8331575,
+              50.8607743
+            ],
+            [
+              12.8330551,
+              50.8607461
+            ],
+            [
+              12.8329984,
+              50.8606852
+            ],
+            [
+              12.8330093,
+              50.860615
+            ],
+            [
+              12.8330835,
+              50.8605622
+            ],
+            [
+              12.8331927,
+              50.860547
+            ],
+            [
+              12.8332952,
+              50.8605752
+            ],
+            [
+              12.8333518,
+              50.8606361
+            ],
+            [
+              12.833341,
+              50.8607063
+            ],
+            [
+              12.8332668,
+              50.8607591
+            ],
+            [
+              12.8331575,
+              50.8607743
+            ]
+          ]
+        ]
+      },
+      "id": "relation/7068564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/11279302",
+        "leisure": "playground",
+        "max_age": "14",
+        "opening_hours": "Mo-Sa 8:00-20:00; Su,PH 8:00-18:00",
+        "type": "multipolygon"
+      },
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                12.8686796,
+                50.7780582
+              ],
+              [
+                12.8686522,
+                50.7780359
+              ],
+              [
+                12.8686809,
+                50.7779452
+              ],
+              [
+                12.8687256,
+                50.7779255
+              ],
+              [
+                12.8688065,
+                50.7779991
+              ],
+              [
+                12.8686796,
+                50.7780582
+              ]
+            ]
+          ],
+          [
+            [
+              [
+                12.8688761,
+                50.7778569
+              ],
+              [
+                12.8689313,
+                50.7779005
+              ],
+              [
+                12.8689406,
+                50.7779152
+              ],
+              [
+                12.8689367,
+                50.7779268
+              ],
+              [
+                12.868929,
+                50.7779371
+              ],
+              [
+                12.8688466,
+                50.7779769
+              ],
+              [
+                12.8687691,
+                50.7779039
+              ],
+              [
+                12.8688761,
+                50.7778569
+              ]
+            ]
+          ]
+        ]
+      },
+      "id": "relation/11279302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296175601",
+        "leisure": "playground",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9425437,
+          50.8107057
+        ]
+      },
+      "id": "node/296175601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296455242",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9084637,
+          50.7888639
+        ]
+      },
+      "id": "node/296455242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/297812206",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8665397,
+          50.7778655
+        ]
+      },
+      "id": "node/297812206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/297891393",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8863264,
+          50.7856293
+        ]
+      },
+      "id": "node/297891393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/300301501",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9068039,
+          50.8188207
+        ]
+      },
+      "id": "node/300301501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/301237945",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9229203,
+          50.8396953
+        ]
+      },
+      "id": "node/301237945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/335595678",
+        "created_by": "Merkaartor 0.12",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9099965,
+          50.8726456
+        ]
+      },
+      "id": "node/335595678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/343261498",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9575955,
+          50.8714934
+        ]
+      },
+      "id": "node/343261498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/349164979",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.88804,
+          50.808404
+        ]
+      },
+      "id": "node/349164979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/355733823",
+        "access": "yes",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.927058,
+          50.8530624
+        ]
+      },
+      "id": "node/355733823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/357293405",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9315693,
+          50.8080597
+        ]
+      },
+      "id": "node/357293405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/370936749",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.914561,
+          50.8306123
+        ]
+      },
+      "id": "node/370936749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/404559514",
+        "leisure": "playground",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8765988,
+          50.8443403
+        ]
+      },
+      "id": "node/404559514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/411772763",
+        "access": "permissive",
+        "leisure": "playground",
+        "name": "Baumhaus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9639435,
+          50.8460509
+        ]
+      },
+      "id": "node/411772763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/430280903",
+        "leisure": "playground",
+        "name": "Wasserspielplatz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9063941,
+          50.850562
+        ]
+      },
+      "id": "node/430280903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/539782103",
+        "leisure": "playground",
+        "name": "Willi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.869865,
+          50.8167923
+        ]
+      },
+      "id": "node/539782103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/688701786",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8979545,
+          50.8099846
+        ]
+      },
+      "id": "node/688701786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/712410366",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9447663,
+          50.8154733
+        ]
+      },
+      "id": "node/712410366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/746706715",
+        "leisure": "playground",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9460316,
+          50.8131434
+        ]
+      },
+      "id": "node/746706715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/832445027",
+        "leisure": "playground",
+        "playground": "sandpit",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9320698,
+          50.8211127
+        ]
+      },
+      "id": "node/832445027"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/852681097",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9209704,
+          50.8345986
+        ]
+      },
+      "id": "node/852681097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/864040891",
+        "leisure": "playground",
+        "note": "nur Schaukel über 4 Ecken"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9105507,
+          50.8452338
+        ]
+      },
+      "id": "node/864040891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/997554193",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8997975,
+          50.7972191
+        ]
+      },
+      "id": "node/997554193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1064225763",
+        "access": "yes",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8802343,
+          50.8391333
+        ]
+      },
+      "id": "node/1064225763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1064225987",
+        "access": "yes",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8794888,
+          50.838783
+        ]
+      },
+      "id": "node/1064225987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1200165403",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8724622,
+          50.7803345
+        ]
+      },
+      "id": "node/1200165403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1231512846",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.954099,
+          50.7857386
+        ]
+      },
+      "id": "node/1231512846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1244811510",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9370227,
+          50.823777
+        ]
+      },
+      "id": "node/1244811510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1248528487",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9739116,
+          50.8774733
+        ]
+      },
+      "id": "node/1248528487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1297504806",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9666899,
+          50.8226612
+        ]
+      },
+      "id": "node/1297504806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1332436743",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9447393,
+          50.8367811
+        ]
+      },
+      "id": "node/1332436743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1332437295",
+        "leisure": "playground",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9617585,
+          50.8351989
+        ]
+      },
+      "id": "node/1332437295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1425071472",
+        "leisure": "playground",
+        "name": "Spielplatz Walter-Ranft Straße"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8726154,
+          50.7826241
+        ]
+      },
+      "id": "node/1425071472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1647225459",
+        "leisure": "playground",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9330436,
+          50.8142052
+        ]
+      },
+      "id": "node/1647225459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1851665576",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9850442,
+          50.8120873
+        ]
+      },
+      "id": "node/1851665576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1915423559",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9529046,
+          50.8333535
+        ]
+      },
+      "id": "node/1915423559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1947341472",
+        "leisure": "playground",
+        "name": "Spielplatz Rabenholz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8776926,
+          50.7874121
+        ]
+      },
+      "id": "node/1947341472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2299544208",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9066038,
+          50.8435636
+        ]
+      },
+      "id": "node/2299544208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2412504408",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9742306,
+          50.7682555
+        ]
+      },
+      "id": "node/2412504408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2420654230",
+        "leisure": "playground",
+        "source": "GPS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9356079,
+          50.8335873
+        ]
+      },
+      "id": "node/2420654230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2441159812",
+        "leisure": "playground",
+        "name": "Halfpipe",
+        "source": "Oregon 600",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.950687,
+          50.8439617
+        ]
+      },
+      "id": "node/2441159812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2505043615",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9452217,
+          50.8162288
+        ]
+      },
+      "id": "node/2505043615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2507443502",
+        "leisure": "playground",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9430959,
+          50.8515149
+        ]
+      },
+      "id": "node/2507443502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2684148280",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9538954,
+          50.8179286
+        ]
+      },
+      "id": "node/2684148280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2700461414",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8858564,
+          50.7936907
+        ]
+      },
+      "id": "node/2700461414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2774959827",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8919363,
+          50.8589695
+        ]
+      },
+      "id": "node/2774959827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2775502561",
+        "access": "private",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8993818,
+          50.8440422
+        ]
+      },
+      "id": "node/2775502561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2775707196",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8912431,
+          50.8582089
+        ]
+      },
+      "id": "node/2775707196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2782848637",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9049564,
+          50.787173
+        ]
+      },
+      "id": "node/2782848637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2795399333",
+        "access": "private",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.897963,
+          50.8004927
+        ]
+      },
+      "id": "node/2795399333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2795404589",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8829642,
+          50.8054404
+        ]
+      },
+      "id": "node/2795404589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2796738881",
+        "leisure": "playground",
+        "playground:slide": "yes",
+        "wheelchair": "no",
+        "wheelchair:description": "Spielplatz ist nicht mehr vorhanden mit Ausnahme einer Rutsche, die mit Hilfe ggf. genutzt werden kann"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8880425,
+          50.848491
+        ]
+      },
+      "id": "node/2796738881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2826565034",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8371007,
+          50.8352386
+        ]
+      },
+      "id": "node/2826565034"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2872591221",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9012135,
+          50.7965606
+        ]
+      },
+      "id": "node/2872591221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2997909831",
+        "leisure": "playground",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9873847,
+          50.8130244
+        ]
+      },
+      "id": "node/2997909831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3012594949",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8987485,
+          50.7825153
+        ]
+      },
+      "id": "node/3012594949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3398243727",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9497309,
+          50.7891774
+        ]
+      },
+      "id": "node/3398243727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4032778536",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8766755,
+          50.8535688
+        ]
+      },
+      "id": "node/4032778536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4244093271",
+        "access": "customers",
+        "leisure": "playground",
+        "operator": "McDonald's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9123467,
+          50.8273104
+        ]
+      },
+      "id": "node/4244093271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4254521847",
+        "access": "yes",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8662216,
+          50.865502
+        ]
+      },
+      "id": "node/4254521847"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4349442605",
+        "leisure": "playground",
+        "opening_hours": "13:00-15:00 off",
+        "playground": "seesaw"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9621836,
+          50.8601366
+        ]
+      },
+      "id": "node/4349442605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4393111049",
+        "leisure": "playground",
+        "source": "bing; survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.947008,
+          50.8937292
+        ]
+      },
+      "id": "node/4393111049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4795834051",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9758774,
+          50.8161996
+        ]
+      },
+      "id": "node/4795834051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4805747088",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8964025,
+          50.7889504
+        ]
+      },
+      "id": "node/4805747088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4805750540",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9004563,
+          50.7899452
+        ]
+      },
+      "id": "node/4805750540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5002931322",
+        "access": "yes",
+        "leisure": "playground",
+        "opening_hours": "Mo-Su 08:00-12:00, 14:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8352475,
+          50.8095352
+        ]
+      },
+      "id": "node/5002931322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5574324000",
+        "fixme": "genauer taggen, sind 2 Federtiere",
+        "leisure": "playground",
+        "playground": "springy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9408339,
+          50.8186118
+        ]
+      },
+      "id": "node/5574324000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5586763675",
+        "access": "customers",
+        "email": "kuddeldaddeldu.chemnitz@cmc-verwaltung.de",
+        "fax": "+49 3722 / 50 46 20",
+        "fee": "yes",
+        "indoor": "yes",
+        "leisure": "playground",
+        "name": "Kuddeldaddeldu",
+        "opening_hours": "Mo-Fr 14:00-19:00; Sa 10:00-19:00; SH Mo-Fr 10:00-19:00; PH off",
+        "phone": "+49 3722 / 50 46 14",
+        "website": "http://www.kuddeldaddeldu.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8659861,
+          50.8640682
+        ]
+      },
+      "id": "node/5586763675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5674531489",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9376932,
+          50.8372176
+        ]
+      },
+      "id": "node/5674531489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5796869253",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9384117,
+          50.8397789
+        ]
+      },
+      "id": "node/5796869253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5796869453",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9385365,
+          50.8399871
+        ]
+      },
+      "id": "node/5796869453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5910000385",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9026683,
+          50.8505175
+        ]
+      },
+      "id": "node/5910000385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5910000398",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9004664,
+          50.850931
+        ]
+      },
+      "id": "node/5910000398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5910000418",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9042533,
+          50.8504407
+        ]
+      },
+      "id": "node/5910000418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6000332292",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8762613,
+          50.7867775
+        ]
+      },
+      "id": "node/6000332292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6556927854",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8740929,
+          50.7833239
+        ]
+      },
+      "id": "node/6556927854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6604597274",
+        "access": "private",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9614183,
+          50.825908
+        ]
+      },
+      "id": "node/6604597274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6899495761",
+        "indoor": "yes",
+        "leisure": "playground",
+        "name": "Jump´n play"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9067576,
+          50.8383796
+        ]
+      },
+      "id": "node/6899495761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7044966521",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9552557,
+          50.8243114
+        ]
+      },
+      "id": "node/7044966521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7044975530",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9559323,
+          50.8270762
+        ]
+      },
+      "id": "node/7044975530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7052824350",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9148018,
+          50.8019807
+        ]
+      },
+      "id": "node/7052824350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7074330884",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8847338,
+          50.8079526
+        ]
+      },
+      "id": "node/7074330884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7074380657",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8908184,
+          50.8083584
+        ]
+      },
+      "id": "node/7074380657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7085380636",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8683195,
+          50.8716335
+        ]
+      },
+      "id": "node/7085380636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7085380637",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8681343,
+          50.8717052
+        ]
+      },
+      "id": "node/7085380637"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7126648916",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0388388,
+          50.8066215
+        ]
+      },
+      "id": "node/7126648916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7131546520",
+        "description": "und 1 Sitzbank",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.964117,
+          50.8213669
+        ]
+      },
+      "id": "node/7131546520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7139636890",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9600532,
+          50.8258398
+        ]
+      },
+      "id": "node/7139636890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7139642903",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9599459,
+          50.8263006
+        ]
+      },
+      "id": "node/7139642903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7139643271",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9594585,
+          50.8269558
+        ]
+      },
+      "id": "node/7139643271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7139656065",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9601069,
+          50.8253518
+        ]
+      },
+      "id": "node/7139656065"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7139670056",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.963664,
+          50.8192698
+        ]
+      },
+      "id": "node/7139670056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7139670057",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9600413,
+          50.8248699
+        ]
+      },
+      "id": "node/7139670057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7139681295",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9616238,
+          50.8249783
+        ]
+      },
+      "id": "node/7139681295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7141367434",
+        "leisure": "playground",
+        "surface": "grass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9978264,
+          50.7986713
+        ]
+      },
+      "id": "node/7141367434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7188730426",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9456914,
+          50.8402985
+        ]
+      },
+      "id": "node/7188730426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7211992122",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9614777,
+          50.8326176
+        ]
+      },
+      "id": "node/7211992122"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7339910008",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9677786,
+          50.8392762
+        ]
+      },
+      "id": "node/7339910008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7365923407",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9429558,
+          50.8359276
+        ]
+      },
+      "id": "node/7365923407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7365923408",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9409098,
+          50.8361683
+        ]
+      },
+      "id": "node/7365923408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7395786919",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9605741,
+          50.8207847
+        ]
+      },
+      "id": "node/7395786919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7398583368",
+        "description": "Klettergerüst",
+        "leisure": "playground",
+        "surface": "sand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0077042,
+          50.7862081
+        ]
+      },
+      "id": "node/7398583368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7405607790",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9482268,
+          50.8370807
+        ]
+      },
+      "id": "node/7405607790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7418657155",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0391907,
+          50.8069311
+        ]
+      },
+      "id": "node/7418657155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7476376751",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9313742,
+          50.8080382
+        ]
+      },
+      "id": "node/7476376751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7476415232",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9437677,
+          50.8095549
+        ]
+      },
+      "id": "node/7476415232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7476428110",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.942944,
+          50.8089101
+        ]
+      },
+      "id": "node/7476428110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7710383828",
+        "leisure": "playground",
+        "name": "AJZ Bauspielplatz",
+        "website": "https://ajz-chemnitz.de/bauspielplatz.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9384383,
+          50.8410207
+        ]
+      },
+      "id": "node/7710383828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7744827245",
+        "access": "yes",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8737682,
+          50.8894706
+        ]
+      },
+      "id": "node/7744827245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7825097430",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8360945,
+          50.8182454
+        ]
+      },
+      "id": "node/7825097430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7873287244",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9496285,
+          50.820316
+        ]
+      },
+      "id": "node/7873287244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7877174740",
+        "leisure": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.936149,
+          50.8390097
+        ]
+      },
+      "id": "node/7877174740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8064862211",
+        "access": "yes",
+        "leisure": "playground",
+        "min_age": "1",
+        "operator": "Siedlungsgemeinschaft Chemnitz",
+        "playground:theme": "playground"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8851719,
+          50.8383568
+        ]
+      },
+      "id": "node/8064862211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8138167635",
+        "access": "yes",
+        "leisure": "playground",
+        "surface": "grass"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0521313,
+          50.7791397
+        ]
+      },
+      "id": "node/8138167635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8173979374",
+        "access": "yes",
+        "amenity": "bench",
+        "backrest": "yes",
+        "leisure": "playground",
+        "surface": "sand"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9750367,
+          50.8039068
+        ]
+      },
+      "id": "node/8173979374"
+    }
+  ]
+}
